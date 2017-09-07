@@ -1,0 +1,15 @@
+body{
+	max-width: 640px;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+	font-family: "Libre Franklin", "Helvetica Neue", "PingFang SC", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans CJK CN", "Microsoft Yahei", Helvetica, STHeitiSC-Light, Arial, sans-serif;
+}
+
+.wp-caption .wp-caption-text, .wp-caption-dd{
+	text-align: center;
+}
