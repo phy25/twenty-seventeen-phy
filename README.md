@@ -1,5 +1,7 @@
 # twenty-seventeen-phy
-Open-sourced Modified Twenty Seventeen Template according to GPL license.
+Open-sourced Modified Twenty Seventeen Template. Originally produced by the WordPress Team.
+
+Beforehand I misunderstood the meaning of GPL (and AGPL), and actually I don't need to publish this. Anyway sharing is a good deed :-)
 
 ## Changes Made So Far
 
